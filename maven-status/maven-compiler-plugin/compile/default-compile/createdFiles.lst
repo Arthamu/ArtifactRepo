@@ -1,3 +1,4 @@
+com/artha/reactivepoc/CustomWebFilter.class
 com/artha/reactivepoc/repo/MongoRepo.class
 com/artha/reactivepoc/entity/Resturants.class
 com/artha/reactivepoc/ReactiveSpringApplication.class
