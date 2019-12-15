@@ -89,9 +89,21 @@ THE SOFTWARE.
 
 @angular/material/button
 
+@angular/material/card
+
+@angular/material/core
+
 @angular/material/datepicker
 
 @angular/material/dialog
+
+@angular/material/form-field
+
+@angular/material/grid-list
+
+@angular/material/paginator
+
+@angular/material/select
 
 @angular/material/sidenav
 
@@ -156,6 +168,9 @@ THE SOFTWARE.
 
 
 ng-event-source
+MIT
+
+ngx-spinner
 MIT
 
 regenerator-runtime
